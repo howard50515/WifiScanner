@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WifiInfoView">
+        <attr name="txtSSID" format="string"/>
+        <attr name="txtLevel" format="string"/>
+        <attr name="txtFrequency" format="string"/>
+    </declare-styleable>
+</resources>
